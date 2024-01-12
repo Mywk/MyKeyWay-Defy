@@ -23,14 +23,16 @@ You can download the whole profile [here](Json/MyKeyWay-Defy.json). Or each laye
 ![L2](Images/keyboard_layout_l2.png)
 
 * F-keys are aligned with their corresponding number keys for intuitive access.
-* Navigation keys (arrows, Home, End, Page Up, Page Down) are centrally located for quick document manipulation.
+* Navigation keys (arrows) are centrally located for quick navigation. 
+* Numpad keys are on the right side of the keyboard, I respected the original design as much as possible
 
 ## **Utility Layer (3)**
 
 ![L3](Images/keyboard_layout_l3.png)
 
 * System control keys like 'Print Screen', 'Bluetooth Pair', and 'Battery Level' are on this third layer to prevent accidental activation.
-* Mouse control keys are included in the thumb cluster for those who prefer not to switch to an actual mouse or touchpad for small tasks.
+* Mouse control keys are included for those who prefer not to switch to an actual mouse or touchpad for small tasks.
+* Special keys (Home, End, Page Up, Page Down) are centrally located for quick document manipulation, they are aligned with my arrow keys.
 * The bluetooth pair is strategically placed on the top left, this is so that I can switch between my computer and my phone/tablet as seemingly as possible.
 
 ## 
@@ -53,6 +55,7 @@ You can download the whole profile [here](Json/MyKeyWay-Defy.json). Or each laye
 * The Backspace key is used a lot, the Del not so much, that's why it's on the same position as the Backspace key on the layer two, I may end up moving the Del key on the
 * I have no use for the top right key (Left half) and top left key (Right half), they are too far to reach comfortable without holding other key, I'm taking suggestions on what could go there.
 * CTRL+Backspace could probably need some improvement, taking suggestions on this.
+* I'm still not entirely sure if I prefer the numeric pad key 0 and . positions or if I should switch them.
 
 **How to install**
 
@@ -68,5 +71,5 @@ The layout that I use with this keyboard is the UK Intl v2, it's great for progr
 
 **Changelog**
 
-* Version 1.0
+* Version 0.7
   * First Release
